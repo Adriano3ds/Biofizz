@@ -30,7 +30,7 @@ Neste modo, ao acertar uma pergunta, o personagem move para frente (se a pergunt
 
 
 
-###Modo Contra o Tempo
+### Modo Contra o Tempo
 
 Neste modo, você tem um tempo para responder cada pergunta.  
 
