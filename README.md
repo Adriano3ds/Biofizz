@@ -47,24 +47,43 @@ Neste modo, você tem um tempo para responder cada pergunta.
 ## Autores
 
 [Alves, Camila F. M.](https://github.com/camilafernanda)
+
 Andrade, Marianna F.
+
 [Carneiro, Maria Luiza C. B.](https://github.com/malucborges)
+
 [Carvalho, Victor H. N.](https://github.com/victorhnogueira)
+
 [Costa, Renata M.](https://github.com/renatamorcsufu)
+
 [Guedes, Lucas G.](https://github.com/lucasguaragna)
+
 [Júnior, Clóvis R. S.](https://github.com/crovim)
+
 [Marques, Letícia P T.](https://github.com/LetMarq)
+
 [Melo, Giovana S.](https://github.com/gsmelo)
+
 Pereira, Maria Luiza O. R
+
 Pombo, Murilo R. N. N.
+
 Ramos, Marina A.
+
 [Reis, Adriano S. J.](https://github.com/Adriano3ds)
+
 [Santos, Guilherme R. G.](https://github.com/GuilhermeRossin)
+
 Silva, Igor Henrique.
+
 Silva, Jeovanna V. P
+
 [Silva, Leonardo M.](https://github.com/matossleon)
+
 [Silva, Victor Henrique B.](https://github.com/VictorBertoli)
+
 [Sírio, Marcos B.](https://github.com/mrsirio)
+
 Vinhais, Luiza S.
 
 
